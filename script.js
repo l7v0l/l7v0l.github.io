@@ -17,6 +17,7 @@ const T = {
     proj_err:'Could not load projects right now.',
     contact_t:'Contact', contact_p:"Have an idea or a project? Let's build it together.",
     made:'Built with HTML, CSS & JS',
+    star:'⭐ Like this site? Star it on GitHub',
     roles:['Web Developer','Multi-language Programmer','Problem Solver','Always Learning']
   },
   ar: {
@@ -35,6 +36,7 @@ const T = {
     proj_err:'تعذّر تحميل المشاريع الآن.',
     contact_t:'تواصل', contact_p:'عندك فكرة أو مشروع؟ خلنا نبنيه سوا.',
     made:'مبني بـ HTML و CSS و JS',
+    star:'⭐ أعجبك الموقع؟ أعطه نجمة على GitHub',
     roles:['مطوّر ويب','مبرمج بعدة لغات','حلّال مشاكل','متعلّم دائماً']
   }
 };
